@@ -1,3 +1,3 @@
 # Gitチュートリアル　
 
- - #2829 feature-A
+ - fix-B
